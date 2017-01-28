@@ -1,5 +1,7 @@
 # Ticketfly CSS Typography Settings
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Ticketfly-UI/ticketfly-css-typography-settings.svg)](https://greenkeeper.io/)
+
 [![Latest NPM release][npm-badge]][npm-badge-url]
 [![CircleCI Build Status][circle-badge]][circle-badge-url]
 [![License][license-badge]][license-badge-url]
