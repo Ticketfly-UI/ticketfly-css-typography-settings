@@ -49,5 +49,8 @@
     "lint:css": "npm run setup && postcss --config test/postcss.config.js && rm build/lint.css",
     "test": "npm run lint:css",
     "release": "npmpub"
+  },
+  "dependencies": {
+    "ticketfly-css-color-variables": "0.0.1"
   }
 }
